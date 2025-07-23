@@ -1,44 +1,45 @@
-# APC Registration Portal
+# 📝 APC Registration Portal
 
-This is a web-based application for **APC Registration**, designed to collect and manage student registration data efficiently through a browser-based interface. The frontend is built using standard web technologies (HTML, CSS, JS), and integrates with a backend for data processing and CSV storage.
+This project is a web-based **student registration portal** designed for **APC (Academic Planning Committee)** activities. It allows students to submit their registration data through a clean, user-friendly interface and stores the information in a CSV file on the server for record-keeping.
+
+---
+
+## 🌐 Live Demo (optional)
+
+> ⚠️ You can deploy this project using services like [Render](https://render.com), [Vercel](https://vercel.com), or [Glitch](https://glitch.com).
+
+---
+
+## 📸 Screenshots
+
+![Home Page](screenshots/homepage.png)
+> Registration form where users enter their details.
+
+![Submission Success](screenshots/success.png)
+> Confirmation message after successful submission.
 
 ---
 
 ## 🚀 Features
 
-- Clean and responsive user interface
-- Student registration form
-- CSV-based data storage (for record-keeping)
-- Basic form validation
-- Registration success message
-- Integrated with server-side logic (Node.js)
+- 📄 Online form for student registration
+- 📥 CSV data storage (`APC REGISTRATION.csv`)
+- 💾 Backend processing using Node.js and Express
+- ✅ Input validation on both client and server sides
+- 📁 Organized project structure
+- 🔒 Error handling for file access (`EBUSY`, etc.)
 
 ---
 
-## 🗂️ Folder Structure
+## 🛠️ Technologies Used
 
-
----
-
-## 💻 How to Run
-
-### 1. Install Node.js (if not already installed)
-- [Download Node.js](https://nodejs.org)
-
-### 2. Install Dependencies
-```bash
-## npm install
-
+| Frontend | Backend  | Storage |
+|----------|----------|---------|
+| HTML5    | Node.js  | CSV File |
+| CSS3     | Express.js |         |
+| JavaScript |         |         |
 
 ---
 
-### ✅ Next Step
-
-To create and push this:
-
-```bash
-echo "<PASTE THE ABOVE CONTENT>" > README.md
-git add README.md
-git commit -m "Add README.md"
-git push
+## 📂 Project Structure
 
