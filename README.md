@@ -1,6 +1,6 @@
 # 📝 APC Registration Portal
 
-This project is a web-based **student registration portal** designed for **APC (Academic Planning Committee)** activities. It allows students to submit their registration data through a clean, user-friendly interface and stores the information in a CSV file on the server for record-keeping.
+This project is a web-based **student registration portal** designed for **APC (Amity Programming Club)** activities. It allows students to submit their registration data through a clean, user-friendly interface and stores the information in a CSV file on the server for record-keeping.
 
 ---
 
