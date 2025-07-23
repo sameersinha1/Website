@@ -10,15 +10,7 @@ This project is a web-based **student registration portal** designed for **APC (
 
 ---
 
-## 📸 Screenshots
 
-![Home Page](screenshots/homepage.png)
-> Registration form where users enter their details.
-
-![Submission Success](screenshots/success.png)
-> Confirmation message after successful submission.
-
----
 
 ## 🚀 Features
 
