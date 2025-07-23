@@ -34,4 +34,15 @@ This project is a web-based **student registration portal** designed for **APC (
 ---
 
 ## 📂 Project Structure
+apcwebsite/
+├── css/
+│ └── style.css # Custom styling
+├── js/
+│ └── script.js # Client-side logic
+├── node_modules/ # npm packages
+├── server.js # Express server
+├── package.json # Project config
+├── index.html # Homepage with registration form
+├── APC REGISTRATION.csv # CSV storage of submissions
+└── README.md # Project documentation
 
