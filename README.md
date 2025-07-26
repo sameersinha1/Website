@@ -27,11 +27,10 @@ This project is a web-based **student registration portal** designed for **APC (
 
 | Frontend | Backend  | Storage |
 |----------|----------|---------|
-| HTML5    | Node.js  | CSV File |
-| CSS3     | Express.js |         |
-| JavaScript |         |         |
+| React    | Node.js  | CSV File|
+|JavaScript|Python    | CSV File|
 
----
+-------------------------------------------------------------------------------------------------------------------
 
 ## 📂 Project Structure
 apcwebsite/
